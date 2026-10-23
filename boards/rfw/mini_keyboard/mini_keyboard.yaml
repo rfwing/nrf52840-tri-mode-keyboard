@@ -1,0 +1,10 @@
+identifier: mini_keyboard/nrf52840
+name: nRF52840_BLE_Mini_Keyboard
+vendor: rfw
+type: mcu
+arch: arm
+ram: 256
+flash: 1024
+toolchain:
+  - zephyr
+supported: []
